@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+2018.03 ~ 2025.02: SNU Computer Science & Engineering   
+2025.01 ~ 20xx.xx: TRIPOD Studio Dev
+
 <!--
 **Laid41798175/Laid41798175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
